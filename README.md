@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yap Yee Jia</h1>
-<h3 align="center">A Computer Science student at Universiti Teknologi Malaysia (UTM), passionate about graphics, 3D modeling, and immersive tech like AR/VR.</h3>
+<h3 align="center">A Computer Science student at Universiti Teknologi Malaysia (UTM), passionate about software development, UI/UX and interactive technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
